@@ -6,6 +6,7 @@ headline:
 modified: 2014-10-18
 category: Eventos
 tags: []
+author: Gabriela Cavalcante
 imagefeature: evento.jpg
 comments: true
 mathjax: 
