@@ -6,7 +6,7 @@ headline:
 modified: 2014-10-18
 category: Eventos
 tags: [Comunidade Python Brasil, PyLadies Recife, Python]
-imagefeature: pyladiesRecifeOficial.jpg
+imagefeature: pyladiesRecifeOficial2.jpg
 comments: true
 mathjax: 
 author: Lidiane Monteiro
